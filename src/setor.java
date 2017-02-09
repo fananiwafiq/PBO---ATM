@@ -18,6 +18,7 @@ public class setor extends javax.swing.JFrame {
      */
     public setor(String saldo) {
         initComponents();
+        jTextField2.setText(saldo);
         
         
     }
